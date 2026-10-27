@@ -1,0 +1,17 @@
+Ticket_ID,Ticket_Text
+T01,The Matlab is running slowly. It works on another computer.
+T02,The server is showing an error. I don't know what changed.
+T03,I reinstalled the email when I use mobile hotspot. Please help.
+T04,I cannot access the VPN on my laptop. I have tried several times!
+T05,I keep getting logged out of the e-mail on my laptop. It works on another computer.
+T06,I reinstalled the printer after restarting the system. Please help.
+T07,See https://lms.thapar.edu/help for details.
+T08,Printer is showing an error after restarting the system. Is there another solution?
+T09,The password is not working. It works on another computer.
+T10,The Matlab crashes while opening. Please help.
+T11,Re-installing didn't help; log-in still fails!
+T12,"The Wi-Fi works, but the VPN doesn't."
+T13,LMS stopped responding since yesterday. Is there another solution?
+T14,Server is showing an error after the latest update. This is urgent.
+T15,Only 2 of 30 PCs boot after 3.5 hours.
+T16,I am unable to use the Python after resetting my password. Please resolve it.
